@@ -2,6 +2,15 @@
 
 Este codigo foi implementado para validação de linha digitável de boletos de cobranças e boletos de arrecadação de concessionárias de agua, luz e telefone.
 
+As classes de validações de boleto efetuam as seguintes validações:
+
+Validação do digito verificador do primeiro, segundo, terceiro e quarto bloco da linha digitável
+Validação do digito verificador geral da linha digitável inteira.
+Validação do fator de vencimento
+Verificação do valor de pagamento
+
+Para boletos de concessionaria
+Além das verificações acima temos a validacão de tipo de operacao e segmento 
 
 
 Boletos de cobrança:
