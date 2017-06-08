@@ -9,19 +9,17 @@ https://cmsportal.febraban.org.br/Arquivos/documentos/PDF/Layout%20-%20C%C3%B3di
 
 Boletos de cobrança:
 
-
-  'LEIAUTE DO CÓDIGO DE BARRAS PADRÃO (vale para qualquer banco)
-  '...............................................................    
-  '   N.    POSIÇÕES     PICTURE     USAGE        CONTEÚO                
-  '...............................................................    
-  '    01    001 a 003    9/003/      Display      Identificação do banco
-  '    02    004 a 004    9/001/      Display      9 /Real/
-  '(a) 03    005 a 005    9/001/      Display      DV /*/
-  '(b) 04    006 a 009    9/004/      Display      fator de vencimento
-  '    05    010 a 019    9/008/v99   Display      Valor
-  '    06    020 a 044    9/025/      Display      CAMPO LIVRE
-  '...............................................................    
-
+  LEIAUTE DO CÓDIGO DE BARRAS PADRÃO (vale para qualquer banco)
+    '...............................................................    
+    '   N.    POSIÇÕES     PICTURE     USAGE        CONTEÚO                
+    '...............................................................    
+    '    01    001 a 003    9/003/      Display      Identificação do banco
+    '    02    004 a 004    9/001/      Display      9 /Real/
+    '(a) 03    005 a 005    9/001/      Display      DV /*/
+    '(b) 04    006 a 009    9/004/      Display      fator de vencimento
+    '    05    010 a 019    9/008/v99   Display      Valor
+    '    06    020 a 044    9/025/      Display      CAMPO LIVRE
+    
 Boletos de Arrecadação de Concessionária:
 
 
