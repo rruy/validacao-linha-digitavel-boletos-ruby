@@ -1,10 +1,9 @@
-# Validacao de Linha digitavel de boleto
+# Validação de linha digitavel de boletos
+
+Este codigo foi implementado para validação de linha digitável de boletos de cobranças e boletos de arrecadação de concessionárias de agua, luz e telefone.
 
 
-Referências:
 
-Documentação com o padrão de geração de boletos
-https://cmsportal.febraban.org.br/Arquivos/documentos/PDF/Layout%20-%20C%C3%B3digo%20de%20Barras%20-%20Vers%C3%A3o%205%20-%2001_08_2016.pdf
 
 
 Boletos de cobrança:
@@ -67,3 +66,11 @@ Boletos de Arrecadação de Concessionária:
     000015744 - Número da guia - Seria por exemplo o nosso número do boleto
 
 
+Referências:
+
+Documentação com o padrão de geração de boletos
+https://cmsportal.febraban.org.br/Arquivos/documentos/PDF/Layout%20-%20C%C3%B3digo%20de%20Barras%20-%20Vers%C3%A3o%205%20-%2001_08_2016.pdf
+
+
+Link muito útil para exemplificação de calculos de módulo 10 e módulo 11.
+http://exemplos.boletoasp.com.br/BoletoNet/BoletoCustomizado.aspx
