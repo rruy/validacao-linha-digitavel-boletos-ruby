@@ -1,6 +1,6 @@
 # Validação de linha digitável de boletos
 
-Este codigo foi implementado para validação de linha digitável de boletos de cobranças e boletos de arrecadação de concessionárias de agua, luz e telefone.
+Este código foi implementado para validação de linha digitável de boletos de cobranças e boletos de arrecadação de concessionárias de agua, luz e telefone.
 
 As classes de validações de boleto efetuam as seguintes validações:
 
@@ -81,3 +81,7 @@ https://cmsportal.febraban.org.br/Arquivos/documentos/PDF/Layout%20-%20C%C3%B3di
 
 Link muito útil para exemplificação de calculos de módulo 10 e módulo 11.
 http://exemplos.boletoasp.com.br/BoletoNet/BoletoCustomizado.aspx
+
+
+Ajudou muito para validar os boletos de concessionária com identificador de valor efetivo ou referência maiores que 7 - (Documento da Febraban pg. 7)
+http://www.cjdinfo.com.br/solucao-javascript-calculo-digito-modulo-11?p=34
