@@ -13,7 +13,7 @@ Para boletos de concessionaria
 Além das verificações acima temos a validacão de tipo de operacao e segmento 
 
 
-# Boletos de cobrança:
+## Boletos de cobrança:
 
     LEIAUTE DO CÓDIGO DE BARRAS PADRÃO (vale para qualquer banco)
         '...............................................................    
@@ -26,7 +26,7 @@ Além das verificações acima temos a validacão de tipo de operacao e segmento
         '    05    010 a 019    9/008/v99   Display      Valor
         '    06    020 a 044    9/025/      Display      CAMPO LIVRE
         
-# Boletos de Arrecadação de Concessionária:
+## Boletos de Arrecadação de Concessionária:
 
 
     Composição do Código de Barras
@@ -73,7 +73,7 @@ Além das verificações acima temos a validacão de tipo de operacao e segmento
     000015744 - Número da guia - Seria por exemplo o nosso número do boleto
 
 
-# Referências:
+## Referências:
 
 Documentação com o padrão de geração de boletos
 https://cmsportal.febraban.org.br/Arquivos/documentos/PDF/Layout%20-%20C%C3%B3digo%20de%20Barras%20-%20Vers%C3%A3o%205%20-%2001_08_2016.pdf
@@ -87,5 +87,5 @@ Ajudou muito para validar os boletos de concessionária com identificador de val
 http://www.cjdinfo.com.br/solucao-javascript-calculo-digito-modulo-11?p=34
 
 
-# Licença de uso
+## Licença de uso
 Esta biblioteca segue os termos de uso da [The MIT License (MIT)](https://opensource.org/licenses/mit-license.php)
