@@ -1,8 +1,6 @@
-# Validação de linha digitavel de boletos
+# Validação de linha digitável de boletos
 
 Este codigo foi implementado para validação de linha digitável de boletos de cobranças e boletos de arrecadação de concessionárias de agua, luz e telefone.
-
-
 
 
 
