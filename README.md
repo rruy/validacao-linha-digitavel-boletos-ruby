@@ -1,6 +1,6 @@
 # Validação de linha digitável de boletos
 
-Este código foi implementado para validação de linha digitável de boletos de cobranças e boletos de arrecadação de concessionárias de agua, luz e telefone.
+Este código foi implementado para validação de linha digitável de boletos de cobranças e boletos de arrecadação de concessionárias de água, luz e telefone.
 
 As classes de validações de boleto efetuam as seguintes validações:
 
